@@ -1,5 +1,10 @@
 // Create web server with express
-const express = require('express');
+// Create routes with express
+// Create comments routes
+// Create comments api routes
+// Create comments api routes with express
+// Create comments api routes with express router
+// Create commenconst express = require('express');
 const app = express();
 
 // Create web server with express
